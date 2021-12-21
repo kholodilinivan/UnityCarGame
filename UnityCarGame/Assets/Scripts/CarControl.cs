@@ -12,16 +12,40 @@ public class CarControl : MonoBehaviour
     float turnInput;
     public Transform leftFrontWheel, rightFrontWheel;
     public float maxWheelTurn = 25f;
+    public bool grounded;
+    public Transform groundRayPoint, groundRayPoint2;
+    public LayerMask whatIsGround;
+    public float groundRayLength = 1f;
+    float dragOnGround;
+    public float gravityMode = 10f;
+    public AudioSource engineSound;
 
     // Start is called before the first frame update
     void Start()
     {
         RB.transform.parent = null;
+        dragOnGround = RB.drag;
+    }
+
+    private void Update()
+    {
+        engineSound.pitch = 1f + (RB.velocity.magnitude / maxSpeed) * 2f;
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
+        grounded = false;
+        RaycastHit hit;
+
+        Vector3 normalTarget = Vector3.zero; // basic orientation of teh car
+
+        if (Physics.Raycast(groundRayPoint.position, -transform.up, out hit, groundRayLength, whatIsGround))
+        {
+            grounded = true;
+            normalTarget = hit.normal;
+        }
+
         speedInput = 0f;
         if(Input.GetAxis("Vertical") > 0)
         {
@@ -33,7 +57,7 @@ public class CarControl : MonoBehaviour
         }
 
         turnInput = Input.GetAxis("Horizontal");
-        if (Input.GetAxis("Vertical") != 0)
+        if (grounded && Input.GetAxis("Vertical") != 0)
         {
             transform.rotation = Quaternion.Euler(transform.rotation.eulerAngles + new Vector3(0, turnInput * turnStrength * Time.deltaTime * Mathf.Sign(speedInput) * (RB.velocity.magnitude/maxSpeed), 0));
         }
@@ -41,7 +65,24 @@ public class CarControl : MonoBehaviour
         leftFrontWheel.localRotation = Quaternion.Euler(leftFrontWheel.localRotation.eulerAngles.x, (turnInput * maxWheelTurn), leftFrontWheel.localRotation.eulerAngles.z);
         rightFrontWheel.localRotation = Quaternion.Euler(rightFrontWheel.localRotation.eulerAngles.x, (turnInput * maxWheelTurn), rightFrontWheel.localRotation.eulerAngles.z);
 
-        RB.AddForce(transform.forward * speedInput * 1000f);
+        // rotate the car to match the normal
+        if (grounded)
+        {
+            transform.rotation = Quaternion.FromToRotation(transform.up, normalTarget) * transform.rotation;
+        }
+
+        // accelerate only on the ground
+        if(grounded)
+        {
+            RB.AddForce(transform.forward * speedInput * 1000f);
+            RB.drag = dragOnGround;
+        }       
+        else
+        {
+            RB.drag = 0.1f;
+            RB.AddForce(-Vector3.up * gravityMode * 100f);
+        }
+
         transform.position = RB.position;
                 
         if (RB.velocity.magnitude > maxSpeed)
