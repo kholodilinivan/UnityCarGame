@@ -6,7 +6,7 @@ using TMPro;
 public class UIControl : MonoBehaviour
 {
     public static UIControl instance;
-    public TMP_Text currentLapText, bestLapTimeText, lapCounterText;
+    public TMP_Text currentLapText, bestLapTimeText, lapCounterText, positionText, countDownText,goText;
 
     private void Awake()
     {

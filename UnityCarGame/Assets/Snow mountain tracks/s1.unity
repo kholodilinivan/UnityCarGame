@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (60)
@@ -233,6 +237,7 @@ MonoBehaviour:
   groundRayLength: 0.8
   gravityMode: 10
   engineSound: {fileID: 736206475}
+  nextCheckpoint: 0
   currentLap: 1
   lapTime: 0
   bestLapTime: 0
@@ -410,6 +415,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (63)
@@ -482,6 +491,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (4)
@@ -539,6 +552,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (68)
@@ -596,6 +613,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (62)
@@ -658,6 +679,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (81)
@@ -715,6 +740,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1820324917042002284, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 467173554205048545, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
       propertyPath: m_RootOrder
       value: 136
@@ -901,6 +930,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (4)
@@ -1044,6 +1077,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (10)
@@ -1106,6 +1143,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (44)
@@ -1173,6 +1214,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (38)
@@ -1230,6 +1275,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (6)
@@ -1287,6 +1336,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (71)
@@ -1458,6 +1511,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs
@@ -1520,6 +1577,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (11)
@@ -1582,6 +1643,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (11)
@@ -1639,6 +1704,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (14)
@@ -1696,6 +1765,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (42)
@@ -1788,6 +1861,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (16)
@@ -1886,6 +1963,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (66)
@@ -1943,6 +2024,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (58)
@@ -2005,6 +2090,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (14)
@@ -2077,6 +2166,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (17)
@@ -2134,6 +2227,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (17)
@@ -2191,6 +2288,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: 4031978978587005270, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6211446928102231005, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
       propertyPath: m_RootOrder
       value: 56
@@ -2390,6 +2491,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (37)
@@ -2528,6 +2633,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (26)
@@ -2585,6 +2694,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (21)
@@ -2728,6 +2841,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (79)
@@ -2795,6 +2912,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (31)
@@ -2857,6 +2978,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1820324917042002284, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 467173554205048545, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
       propertyPath: m_RootOrder
       value: 41
@@ -2914,6 +3039,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (20)
@@ -2971,6 +3100,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (14)
@@ -3028,6 +3161,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (7)
@@ -3085,6 +3222,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (3)
@@ -3190,6 +3331,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Track_Corner_90d_type_01_15x15m_free_obs (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6328670885464780835, guid: dd0831f60632baf4492b92858d493b29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd0831f60632baf4492b92858d493b29, type: 3}
 --- !u!4 &322594065 stripped
@@ -3238,6 +3383,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (36)
@@ -3305,6 +3454,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (19)
@@ -3362,6 +3515,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (52)
@@ -3424,6 +3581,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (54)
@@ -3481,6 +3642,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (68)
@@ -3538,6 +3703,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (50)
@@ -3595,6 +3764,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (53)
@@ -4084,6 +4257,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (89)
@@ -4141,6 +4318,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (2)
@@ -4198,6 +4379,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (73)
@@ -4369,6 +4554,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (47)
@@ -4839,6 +5028,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (32)
@@ -4901,6 +5094,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -4232274082514714944, guid: 1060f28bab45ab94eb490830df68466e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2581800735424805860, guid: 1060f28bab45ab94eb490830df68466e, type: 3}
       propertyPath: m_RootOrder
       value: 168
@@ -4951,6 +5148,140 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1060f28bab45ab94eb490830df68466e, type: 3}
+--- !u!1 &423429455
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 423429458}
+  - component: {fileID: 423429457}
+  - component: {fileID: 423429456}
+  m_Layer: 5
+  m_Name: COUNTER
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &423429456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 423429455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 3
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278223615
+  m_fontColor: {r: 1, g: 0.5105522, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 110.27
+  m_fontSizeBase: 110.27
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &423429457
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 423429455}
+  m_CullTransparentMesh: 1
+--- !u!224 &423429458
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 423429455}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.3779, y: 1.3779, z: 1.3779}
+  m_Children: []
+  m_Father: {fileID: 1630142485}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 1003, y: 552}
+  m_SizeDelta: {x: 200, y: 111}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &436015305
 GameObject:
   m_ObjectHideFlags: 0
@@ -5102,6 +5433,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (30)
@@ -5349,6 +5684,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (41)
@@ -5531,6 +5870,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (7)
@@ -5598,6 +5941,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (43)
@@ -5670,6 +6017,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (59)
@@ -5727,6 +6078,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (21)
@@ -5784,6 +6139,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (4)
@@ -5841,6 +6200,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (52)
@@ -6181,6 +6544,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (49)
@@ -6238,6 +6605,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (34)
@@ -6300,6 +6671,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1820324917042002284, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 467173554205048545, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
       propertyPath: m_RootOrder
       value: 118
@@ -6357,6 +6732,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (75)
@@ -6610,6 +6989,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (27)
@@ -6677,6 +7060,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (51)
@@ -6888,6 +7275,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (8)
@@ -6950,6 +7341,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (76)
@@ -7012,6 +7407,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (29)
@@ -7069,6 +7468,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs
@@ -7126,6 +7529,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (25)
@@ -7188,6 +7595,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (57)
@@ -7245,6 +7656,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (83)
@@ -7307,6 +7722,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -4232274082514714944, guid: 1060f28bab45ab94eb490830df68466e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2581800735424805860, guid: 1060f28bab45ab94eb490830df68466e, type: 3}
       propertyPath: m_RootOrder
       value: 165
@@ -7374,6 +7793,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (8)
@@ -7431,6 +7854,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (82)
@@ -7488,6 +7915,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (67)
@@ -7656,6 +8087,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (34)
@@ -7713,6 +8148,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (48)
@@ -7770,6 +8209,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (48)
@@ -7837,6 +8280,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (72)
@@ -7894,6 +8341,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (24)
@@ -7956,6 +8407,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: 4031978978587005270, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6211446928102231005, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
       propertyPath: m_RootOrder
       value: 69
@@ -8096,6 +8551,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (64)
@@ -8163,6 +8622,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (70)
@@ -8347,6 +8810,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (37)
@@ -8409,6 +8876,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (18)
@@ -8585,6 +9056,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (33)
@@ -8647,6 +9122,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (78)
@@ -8818,6 +9297,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (38)
@@ -8923,6 +9406,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Track_Corner_90d_type_01_15x15m_free_obs (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6328670885464780835, guid: dd0831f60632baf4492b92858d493b29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd0831f60632baf4492b92858d493b29, type: 3}
 --- !u!4 &773825804 stripped
@@ -8942,6 +9429,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (60)
@@ -9004,6 +9495,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (84)
@@ -9071,6 +9566,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (80)
@@ -9128,6 +9627,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (70)
@@ -9185,6 +9688,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (78)
@@ -9242,6 +9749,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (24)
@@ -9355,6 +9866,7 @@ MonoBehaviour:
   groundRayLength: 0.8
   gravityMode: 10
   engineSound: {fileID: 1177994289}
+  nextCheckpoint: 0
   currentLap: 1
   lapTime: 0
   bestLapTime: 0
@@ -9396,6 +9908,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (57)
@@ -9572,6 +10088,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (29)
@@ -9629,6 +10149,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (31)
@@ -9686,6 +10210,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (25)
@@ -9857,6 +10385,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (63)
@@ -9924,6 +10456,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (79)
@@ -10254,6 +10790,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (53)
@@ -10311,6 +10851,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (20)
@@ -10434,6 +10978,7 @@ MonoBehaviour:
   groundRayLength: 0.8
   gravityMode: 10
   engineSound: {fileID: 2134169708}
+  nextCheckpoint: 0
   currentLap: 1
   lapTime: 0
   bestLapTime: 0
@@ -10470,6 +11015,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (39)
@@ -10532,6 +11081,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (28)
@@ -10589,6 +11142,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (7)
@@ -10651,6 +11208,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (16)
@@ -10718,6 +11279,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (8)
@@ -10780,6 +11345,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (44)
@@ -10837,6 +11406,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (32)
@@ -10899,6 +11472,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (40)
@@ -11100,6 +11677,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (23)
@@ -11513,6 +12094,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (69)
@@ -11580,6 +12165,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (5)
@@ -11637,6 +12226,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (47)
@@ -11741,6 +12334,10 @@ PrefabInstance:
     - target: {fileID: 5539833070294148113, guid: dd0831f60632baf4492b92858d493b29, type: 3}
       propertyPath: m_Name
       value: Track_Corner_90d_type_01_15x15m_free_obs (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6328670885464780835, guid: dd0831f60632baf4492b92858d493b29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd0831f60632baf4492b92858d493b29, type: 3}
@@ -11856,6 +12453,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (77)
@@ -12032,6 +12633,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (55)
@@ -12439,6 +13044,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (35)
@@ -12582,6 +13191,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (56)
@@ -12696,7 +13309,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1235723130}
-  m_LocalRotation: {x: 0.18067546, y: 3.494246e-15, z: -1.9779896e-16, w: 0.9835428}
+  m_LocalRotation: {x: 0.18067543, y: -0.00000002931186, z: 0.0000000053845475, w: 0.9835428}
   m_LocalPosition: {x: 0, y: 3.5, z: -7.89}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -12716,6 +13329,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (27)
@@ -12778,6 +13395,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (12)
@@ -12881,6 +13502,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (83)
@@ -13087,6 +13712,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (56)
@@ -13149,6 +13778,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (88)
@@ -13206,6 +13839,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (65)
@@ -13263,6 +13900,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (55)
@@ -13461,6 +14102,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (49)
@@ -13518,6 +14163,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (40)
@@ -13664,6 +14313,140 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6211446928102231005, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
   m_PrefabInstance: {fileID: 2112152108}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1338475557
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1338475558}
+  - component: {fileID: 1338475560}
+  - component: {fileID: 1338475559}
+  m_Layer: 5
+  m_Name: POS INDICATOR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1338475558
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1338475557}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1630142485}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 1820, y: 55.5}
+  m_SizeDelta: {x: 200, y: 111}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1338475559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1338475557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: X/X
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4281189631
+  m_fontColor: {r: 1, g: 0.7676546, b: 0.1745283, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 110.27
+  m_fontSizeBase: 110.27
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 4
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1338475560
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1338475557}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1343410502
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13671,6 +14454,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (77)
@@ -13728,6 +14515,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (65)
@@ -13816,6 +14607,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (22)
@@ -13873,6 +14668,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (22)
@@ -14036,6 +14835,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (10)
@@ -14140,6 +14943,10 @@ PrefabInstance:
     - target: {fileID: 5539833070294148113, guid: dd0831f60632baf4492b92858d493b29, type: 3}
       propertyPath: m_Name
       value: Track_Corner_90d_type_01_15x15m_free_obs (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6328670885464780835, guid: dd0831f60632baf4492b92858d493b29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd0831f60632baf4492b92858d493b29, type: 3}
@@ -14289,6 +15096,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (6)
@@ -14392,6 +15203,7 @@ MonoBehaviour:
   groundRayLength: 0.8
   gravityMode: 10
   engineSound: {fileID: 2146875060}
+  nextCheckpoint: 0
   currentLap: 1
   lapTime: 0
   bestLapTime: 0
@@ -14604,6 +15416,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (42)
@@ -14661,6 +15477,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (2)
@@ -14738,6 +15558,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (9)
@@ -14843,6 +15667,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Track_Corner_90d_type_01_15x15m_free_obs
       objectReference: {fileID: 0}
+    - target: {fileID: 6328670885464780835, guid: dd0831f60632baf4492b92858d493b29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd0831f60632baf4492b92858d493b29, type: 3}
 --- !u!4 &1436941125 stripped
@@ -14857,6 +15685,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (18)
@@ -14919,6 +15751,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (58)
@@ -14981,6 +15817,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (13)
@@ -15038,6 +15878,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (1)
@@ -15095,6 +15939,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: 4031978978587005270, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6211446928102231005, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -15289,6 +16137,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (39)
@@ -15442,6 +16294,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (69)
@@ -15499,6 +16355,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (9)
@@ -15958,6 +16818,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Track_Corner_90d_type_01_15x15m_free_obs (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6328670885464780835, guid: dd0831f60632baf4492b92858d493b29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd0831f60632baf4492b92858d493b29, type: 3}
 --- !u!1001 &1548113984
@@ -15967,6 +16831,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (74)
@@ -16058,6 +16926,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (59)
@@ -16115,6 +16987,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (45)
@@ -16316,7 +17192,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1569671490}
-  m_LocalRotation: {x: 0.18067546, y: 3.494246e-15, z: -1.9779896e-16, w: 0.9835428}
+  m_LocalRotation: {x: 0.18067543, y: -0.00000002931186, z: 0.0000000053845475, w: 0.9835428}
   m_LocalPosition: {x: 0, y: 3.5, z: -7.89}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -16556,6 +17432,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (13)
@@ -16618,6 +17498,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (84)
@@ -16690,6 +17574,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs
@@ -16747,6 +17635,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (73)
@@ -16832,6 +17724,9 @@ MonoBehaviour:
   currentLapText: {fileID: 1042582989}
   bestLapTimeText: {fileID: 517599463}
   lapCounterText: {fileID: 522748978}
+  positionText: {fileID: 1338475559}
+  countDownText: {fileID: 423429456}
+  goText: {fileID: 1668288977}
 --- !u!114 &1630142482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16910,6 +17805,10 @@ RectTransform:
   - {fileID: 517599465}
   - {fileID: 1386743276}
   - {fileID: 522748980}
+  - {fileID: 1836943052}
+  - {fileID: 1338475558}
+  - {fileID: 423429458}
+  - {fileID: 1668288979}
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -16925,6 +17824,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (30)
@@ -16982,6 +17885,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (33)
@@ -17049,6 +17956,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (86)
@@ -17278,6 +18189,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (26)
@@ -17328,6 +18243,154 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+--- !u!1 &1668288976
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1668288979}
+  - component: {fileID: 1668288978}
+  - component: {fileID: 1668288977}
+  - component: {fileID: 1668288980}
+  m_Layer: 5
+  m_Name: GO
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &1668288977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668288976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: GO
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278255373
+  m_fontColor: {r: 0.051522493, g: 1, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 110.27
+  m_fontSizeBase: 110.27
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1668288978
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668288976}
+  m_CullTransparentMesh: 1
+--- !u!224 &1668288979
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668288976}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1630142485}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 1003, y: 552}
+  m_SizeDelta: {x: 200, y: 111}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1668288980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1668288976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c806ec589a9be947bc9b1918e4334bc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeToDisable: 1
 --- !u!1001 &1670368662
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17335,6 +18398,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1820324917042002284, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 467173554205048545, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -17392,6 +18459,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (36)
@@ -17459,6 +18530,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (72)
@@ -17516,6 +18591,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (35)
@@ -17578,6 +18657,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (45)
@@ -17749,6 +18832,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (3)
@@ -17826,6 +18913,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (3)
@@ -17888,6 +18979,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (61)
@@ -17975,6 +19070,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (67)
@@ -18037,6 +19136,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (81)
@@ -18104,6 +19207,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (46)
@@ -18266,6 +19373,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (5)
@@ -18323,6 +19434,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (82)
@@ -18380,6 +19495,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (51)
@@ -18524,6 +19643,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (23)
@@ -18703,6 +19826,140 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7499966408349325154, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
   m_PrefabInstance: {fileID: 2025891202}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1836943051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1836943052}
+  - component: {fileID: 1836943054}
+  - component: {fileID: 1836943053}
+  m_Layer: 5
+  m_Name: POS LABEL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1836943052
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836943051}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1630142485}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 1820, y: 143}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1836943053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836943051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 'POSITION:'
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 4
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1836943054
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836943051}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1845001320
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18710,6 +19967,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -4232274082514714944, guid: 1060f28bab45ab94eb490830df68466e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2581800735424805860, guid: 1060f28bab45ab94eb490830df68466e, type: 3}
       propertyPath: m_RootOrder
       value: 205
@@ -18767,6 +20028,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (13)
@@ -18824,6 +20089,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (6)
@@ -18881,6 +20150,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (15)
@@ -18987,6 +20260,20 @@ MonoBehaviour:
   - {fileID: 1179278057}
   - {fileID: 381905100}
   totalLaps: 5
+  playerCar: {fileID: 94211159431567115}
+  allAICars:
+  - {fileID: 997469779}
+  - {fileID: 822626958}
+  - {fileID: 1406098713}
+  - {fileID: 7452500}
+  playerPosition: 0
+  aiDefaultSpeed: 30
+  playerDefaultSpeed: 30
+  SpeedVariance: 3.5
+  AccelVariance: 0.5
+  isStarting: 0
+  timeBetweenStartCount: 1
+  countdownCurrent: 3
 --- !u!4 &1877732372
 Transform:
   m_ObjectHideFlags: 0
@@ -19009,6 +20296,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: 4031978978587005270, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6211446928102231005, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
       propertyPath: m_RootOrder
       value: 104
@@ -19319,6 +20610,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (50)
@@ -19381,6 +20676,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (10)
@@ -19735,6 +21034,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (46)
@@ -19792,6 +21095,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (12)
@@ -19968,6 +21275,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (80)
@@ -20025,6 +21336,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (12)
@@ -20244,6 +21559,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: 4031978978587005270, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6211446928102231005, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
       propertyPath: m_RootOrder
       value: 131
@@ -20301,6 +21620,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (41)
@@ -20547,6 +21870,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (1)
@@ -20604,6 +21931,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (66)
@@ -20661,6 +21992,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -4180479327332058295, guid: 419b5557461398443a4b99d9496015fc, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7276925260861940167, guid: 419b5557461398443a4b99d9496015fc, type: 3}
       propertyPath: m_RootOrder
       value: 176
@@ -20718,6 +22053,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (76)
@@ -20902,6 +22241,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (74)
@@ -20964,6 +22307,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (5)
@@ -21162,6 +22509,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (64)
@@ -21280,6 +22631,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (87)
@@ -21347,6 +22702,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (85)
@@ -21404,6 +22763,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (75)
@@ -21570,6 +22933,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (71)
@@ -21741,6 +23108,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (19)
@@ -21798,6 +23169,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1743051733471590768, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8121123564845872179, guid: f5d3c5e0f5f32c141911c08deee9e94d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_red_block_1.5m_free_obs (15)
@@ -21855,6 +23230,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -1820324917042002284, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 467173554205048545, guid: 18ab59e03c7a63c4dbfb26d2ca862d41, type: 3}
       propertyPath: m_RootOrder
       value: 204
@@ -21912,6 +23291,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7112750754122813761, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8483781631078631208, guid: 87e0acbd6ddf7814097e377d5a5c716d, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_15m_free_obs (11)
@@ -22126,6 +23509,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Track_Corner_90d_type_01_15x15m_free_obs (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6328670885464780835, guid: dd0831f60632baf4492b92858d493b29, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd0831f60632baf4492b92858d493b29, type: 3}
 --- !u!1001 &2082913091
@@ -22135,6 +23522,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (43)
@@ -22192,6 +23583,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (9)
@@ -22363,6 +23758,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (54)
@@ -22420,6 +23819,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: 4031978978587005270, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6211446928102231005, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
       propertyPath: m_RootOrder
       value: 82
@@ -22477,6 +23880,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (61)
@@ -22539,6 +23946,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: 4031978978587005270, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6211446928102231005, guid: 233c6ac239f5f764f802f62bea56397e, type: 3}
       propertyPath: m_RootOrder
       value: 207
@@ -22824,6 +24235,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (28)
@@ -22881,6 +24296,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 364135978}
     m_Modifications:
+    - target: {fileID: -7720982353877223050, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7160418957281086936, guid: 484e95a1def424c4b9f1ad821e0c226a, type: 3}
       propertyPath: m_Name
       value: Track_Fence_line_type_01_white_block_1.5m_free_obs (62)
@@ -23103,6 +24522,7 @@ MonoBehaviour:
   groundRayLength: 0.8
   gravityMode: 10
   engineSound: {fileID: 394420302}
+  nextCheckpoint: 0
   currentLap: 1
   lapTime: 0
   bestLapTime: 0
