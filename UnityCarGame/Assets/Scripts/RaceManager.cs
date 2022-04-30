@@ -18,6 +18,7 @@ public class RaceManager : MonoBehaviour
     public float timeBetweenStartCount = 1f;
     float startCounter;
     public int countdownCurrent = 3;
+    public bool raceCompleted;
 
     private void Awake()
     {
@@ -102,5 +103,28 @@ public class RaceManager : MonoBehaviour
             }
             }
         
+    }
+
+    public void FinishRace()
+    {
+        raceCompleted = true;
+
+        switch(playerPosition)
+        {
+            case 1:
+                UIControl.instance.raceResultText.text = "You finished 1st";
+                break;
+            case 2:
+                UIControl.instance.raceResultText.text = "You finished 2nd";
+                break;
+            case 3:
+                UIControl.instance.raceResultText.text = "You finished 3rd";
+                break;
+            default:
+                UIControl.instance.raceResultText.text = "You finished" + playerPosition + "th";
+                break;
+        }
+
+        UIControl.instance.resultScreen.SetActive(true);
     }
 }

@@ -180,6 +180,19 @@ public class CarControl : MonoBehaviour
                 LapCompleted();
             }
         }
+        if(isAI)
+        {
+            if(checkpointNum == currentTarget)
+            {
+                currentTarget++;
+                if (currentTarget >= RaceManager.instance.allCheckpoints.Length)
+                {
+                    currentTarget = 0;
+                }
+                targetPoint = RaceManager.instance.allCheckpoints[currentTarget].transform.position;
+                RandimiseAllTarget();
+            }
+        }
     }
 
     public void LapCompleted()
@@ -189,16 +202,32 @@ public class CarControl : MonoBehaviour
         {
             bestLapTime = lapTime;
         }
-        lapTime = 0f;
-
-        if(!isAI)
+       
+        if (currentLap <= RaceManager.instance.totalLaps)
         {
-            var timespan = System.TimeSpan.FromSeconds(bestLapTime);
-            UIControl.instance.bestLapTimeText.text = string.Format("{0:00}m{1:00}.{2:000}s", timespan.Minutes, timespan.Seconds, timespan.Milliseconds);
+            lapTime = 0f;
 
-            UIControl.instance.lapCounterText.text = currentLap + "/" + RaceManager.instance.totalLaps;
+            if(!isAI)
+            {
+                var timespan = System.TimeSpan.FromSeconds(bestLapTime);
+                UIControl.instance.bestLapTimeText.text = string.Format("{0:00}m{1:00}.{2:000}s", timespan.Minutes, timespan.Seconds, timespan.Milliseconds);
+
+                UIControl.instance.lapCounterText.text = currentLap + "/" + RaceManager.instance.totalLaps;
+            }
         }
-
+        else
+        {
+            if(!isAI)
+            {
+                isAI = true;
+                aiSpeedMod = 1;
+                targetPoint = RaceManager.instance.allCheckpoints[currentTarget].transform.position;
+                RandimiseAllTarget();
+                var timespan = System.TimeSpan.FromSeconds(bestLapTime);
+                UIControl.instance.bestLapTimeText.text = string.Format("{0:00}m{1:00}.{2:000}s", timespan.Minutes, timespan.Seconds, timespan.Milliseconds);
+                RaceManager.instance.FinishRace();
+            }
+        }
     }
 
     public void RandimiseAllTarget()

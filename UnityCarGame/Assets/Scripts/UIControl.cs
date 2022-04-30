@@ -6,7 +6,9 @@ using TMPro;
 public class UIControl : MonoBehaviour
 {
     public static UIControl instance;
-    public TMP_Text currentLapText, bestLapTimeText, lapCounterText, positionText, countDownText,goText;
+    public TMP_Text currentLapText, bestLapTimeText, lapCounterText, positionText, countDownText,goText, raceResultText;
+    public GameObject resultScreen, pauseScreen;
+    public bool isPaused;
 
     private void Awake()
     {
@@ -21,6 +23,23 @@ public class UIControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {
+            PauseUnpause();
+        }
+    }
+
+    public void PauseUnpause()
+    {
+        isPaused = !isPaused;
+        pauseScreen.SetActive(isPaused);
+        if(isPaused)
+        {
+            Time.timeScale = 0;
+        }
+        else
+        {
+            Time.timeScale = 1;
+        }
     }
 }
